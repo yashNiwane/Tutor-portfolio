@@ -1,0 +1,26 @@
+[
+  {
+    "filename": "NPO Certificate.pdf",
+    "title": "Naval Pay Office Certificate",
+    "description": "Certificate of employment and recognition from the Indian Navy, Naval Pay Office, Pune.",
+    "type": "pdf",
+    "sizeBytes": 393965,
+    "icon": "award"
+  },
+  {
+    "filename": "orbiqe-experience-letter.pdf",
+    "title": "Experience Letter – Orbiqe",
+    "description": "Official experience letter from Orbiqe Technologies, validating professional software development experience.",
+    "type": "pdf",
+    "sizeBytes": 484619,
+    "icon": "briefcase"
+  },
+  {
+    "filename": "yash_niwaneR2.pdf",
+    "title": "Resume / CV",
+    "description": "Yash Niwane's latest teaching resume with experience, skills, and qualifications.",
+    "type": "pdf",
+    "sizeBytes": 109735,
+    "icon": "file-text"
+  }
+]
